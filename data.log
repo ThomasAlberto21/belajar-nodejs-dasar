@@ -1,0 +1,9 @@
+Hello World from Node.js
+Error from Node.js
+Warning from Node.js
+┌───────────┬───────────┐
+│  (index)  │  Values   │
+├───────────┼───────────┤
+│ firstName │ 'Thomas'  │
+│ lastName  │ 'Alberto' │
+└───────────┴───────────┘
